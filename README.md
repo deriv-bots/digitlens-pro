@@ -78,6 +78,8 @@ Prefer using DigitLens Pro as a native mobile app? You can download the latest A
 <sub>Trade smart. Risk less. Stay consistent.</sub>
 
 </div>
+
+
 ---
 
 ## Installation & Local Setup
