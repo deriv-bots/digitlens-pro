@@ -46,7 +46,7 @@ Designed with an immersive, low-latency, eye-friendly dark mode interface optimi
 
 ### Web Version (GitHub Pages)
 Access the live web version directly in any modern browser:
-👉 [DigitLens Pro Web App](https://deriv-bots.github.io/digitlens-pro/)[cite: 4]
+👉 [DigitLens Pro Web App](https://deriv-bots.github.io/digitlens-pro/)
 
 ### Android APK Version
 Prefer using DigitLens Pro as a native mobile app? You can download the latest Android application package directly from this repository:
@@ -60,15 +60,6 @@ Prefer using DigitLens Pro as a native mobile app? You can download the latest A
 - **Frontend / Mobile Shell**: HTML5, CSS3, Vanilla JavaScript
 - **Data Source**: Deriv Public WebSocket API
 - **Hosting**: GitHub Pages
-
----
-
-## Installation & Local Setup
-
-Clone the repository:
-```bash
-git clone [https://github.com/deriv-bots/digitlens-pro.git](https://github.com/deriv-bots/digitlens-pro.git)
-
 ---
 
 
@@ -87,3 +78,12 @@ git clone [https://github.com/deriv-bots/digitlens-pro.git](https://github.com/d
 <sub>Trade smart. Risk less. Stay consistent.</sub>
 
 </div>
+---
+
+## Installation & Local Setup
+
+Clone the repository:
+```bash
+git clone [https://github.com/deriv-bots/digitlens-pro.git](https://github.com/deriv-bots/digitlens-pro.git)
+
+
