@@ -1,6 +1,18 @@
 # DigitLens Pro
 Professional Synthetic Index Intelligence Platform for Deriv Markets.
 
+## 📈 Layout
+
+Check out our latest performance tracking screenshots from actual trading runs:
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/97297e16-31b2-41ca-832d-ac33ae9de349" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cefb46e6-2725-411a-9cf6-5e5a56f0b0b7" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/978b16f7-5299-4591-b828-65c9d17536a4" width="250"/></td>
+  </tr>
+</table>
+
 DigitLens Pro is a real-time market analysis and intelligence tool designed for Deriv synthetic indices. It monitors live tick behaviour, detects statistical deviations, scans multiple market categories across Volatility, Boom, Crash, Jump, Step, Bear, and Bull indices, and highlights high-confidence trading opportunities.
 
 ---
